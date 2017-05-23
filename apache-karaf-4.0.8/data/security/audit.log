@@ -1,0 +1,102 @@
+2017-03-03 10:21:06,738 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:06,739 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:06,890 | INFO  | tp2098438518-127 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:06,891 | INFO  | tp2098438518-127 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:07,103 | INFO  | tp2098438518-130 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:07,407 | INFO  | tp2098438518-130 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:07,510 | INFO  | tp2098438518-129 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:07,510 | INFO  | tp2098438518-129 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:07,706 | INFO  | tp2098438518-126 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:07,706 | INFO  | tp2098438518-126 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:07,904 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:07,905 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:08,120 | INFO  | tp2098438518-127 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:08,121 | INFO  | tp2098438518-127 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:08,322 | INFO  | tp2098438518-130 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:08,322 | INFO  | tp2098438518-130 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:08,521 | INFO  | tp2098438518-129 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:08,521 | INFO  | tp2098438518-129 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:08,723 | INFO  | tp2098438518-126 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:08,723 | INFO  | tp2098438518-126 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:08,911 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:08,912 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:09,093 | INFO  | tp2098438518-127 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:09,093 | INFO  | tp2098438518-127 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:09,275 | INFO  | tp2098438518-130 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:09,275 | INFO  | tp2098438518-130 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:09,465 | INFO  | tp2098438518-129 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:09,465 | INFO  | tp2098438518-129 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:09,660 | INFO  | tp2098438518-126 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:09,660 | INFO  | tp2098438518-126 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-03 10:21:09,845 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-03 10:21:09,845 | INFO  | tp2098438518-128 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-15 17:12:06,115 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:06,123 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:08,275 | INFO  | tp1081590943-113 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:08,276 | INFO  | tp1081590943-113 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:10,317 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:10,317 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:12,329 | INFO  | tp1081590943-114 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:12,330 | INFO  | tp1081590943-114 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:14,188 | INFO  | tp1081590943-112 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:14,188 | INFO  | tp1081590943-112 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:14,681 | INFO  | tp1081590943-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:14,681 | INFO  | tp1081590943-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:15,570 | INFO  | tp1081590943-113 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:15,764 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:15,805 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:15,805 | INFO  | tp1081590943-113 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:15,982 | INFO  | tp1081590943-114 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:15,983 | INFO  | tp1081590943-114 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:16,125 | INFO  | tp1081590943-112 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:16,125 | INFO  | tp1081590943-112 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:16,547 | INFO  | tp1081590943-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:16,547 | INFO  | tp1081590943-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:16,730 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:16,730 | INFO  | tp1081590943-111 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:16,893 | INFO  | tp1081590943-113 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:17,008 | INFO  | tp1081590943-113 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:17,094 | INFO  | tp1081590943-114 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:17,095 | INFO  | tp1081590943-114 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-15 17:12:17,293 | INFO  | tp1081590943-112 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - karaf
+2017-03-15 17:12:17,293 | INFO  | tp1081590943-112 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication succeeded - karaf
+2017-03-22 13:46:44,139 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:44,139 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:44,157 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:44,157 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:45,368 | INFO  | tp1873480566-122 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:45,369 | INFO  | tp1873480566-122 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:45,369 | INFO  | tp1873480566-137 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:45,370 | INFO  | tp1873480566-137 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:45,956 | INFO  | tp1873480566-120 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:45,956 | INFO  | tp1873480566-119 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:45,957 | INFO  | tp1873480566-120 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:45,957 | INFO  | tp1873480566-119 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:46,470 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:46,470 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:46,470 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:46,470 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:46,654 | INFO  | tp1873480566-137 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:46,654 | INFO  | tp1873480566-122 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:46,654 | INFO  | tp1873480566-137 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:46,655 | INFO  | tp1873480566-122 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:46,841 | INFO  | tp1873480566-119 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:46,841 | INFO  | tp1873480566-120 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:46,842 | INFO  | tp1873480566-120 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:46,842 | INFO  | tp1873480566-119 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,071 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,071 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,071 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,071 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,229 | INFO  | tp1873480566-122 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,229 | INFO  | tp1873480566-122 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,237 | INFO  | tp1873480566-137 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,237 | INFO  | tp1873480566-137 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,371 | INFO  | tp1873480566-119 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,371 | INFO  | tp1873480566-120 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,371 | INFO  | tp1873480566-119 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,371 | INFO  | tp1873480566-120 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,546 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,546 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication attempt - 
+2017-03-22 13:46:47,546 | INFO  | tp1873480566-144 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 
+2017-03-22 13:46:47,546 | INFO  | tp1873480566-118 | LogAuditLoginModule              | 35 - org.apache.karaf.jaas.modules - 4.0.8 | Authentication failed - 

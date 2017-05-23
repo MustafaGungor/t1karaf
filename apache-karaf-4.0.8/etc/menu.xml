@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<moduleList>
+	<module id = "1" name="Yönetim">
+		<!--<forms>-->
+			<form id = "1" name="Kullanıcı Yönetimi">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<form id = "2" name="Seviye Yönetimi">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<form id = "3" name="Grup Yönetimi">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<form id = "4" name="Yetki Yönetimi">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="3" name="Güncelleme"/>
+			</form>
+			<form id = "5" name="İl Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<form id = "6" name="İlçe Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<form id = "7" name="Ülke Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<!--</forms>-->
+	</module>
+	<module id = "2" name="E-Fatura">
+		<!--<forms>-->
+			<form id = "1" name="Adres Defteri">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>
+			<form id = "2" name="E-Fatura Kullanıcı Listesi">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "3" name="Mail Yönlendirme">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "4" name="Fatura Taslakları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "5" name="Giden Fatura Havuzu">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "6" name="Gelen Fatura Havuzu">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "7" name="Giden Fatura Arşiv">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "8" name="Gelen Fatura Arşiv">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>			
+			<form id = "9" name="Giden Posta Kutusu">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>		
+			<form id = "10" name="Gelen Posta Kutusu">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>			
+			<form id = "11" name="Müşteri Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>		
+			<form id = "12" name="Vergi Dairesi Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>		
+			<form id = "13" name="Duyurular">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>				
+			<form id = "14" name="Fatura Serisi Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			<form id = "15" name="Kullanıcı Tanımları">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>		
+			<form id = "16" name="Fatura">
+				<permission id="1" name="Görüntüleme"/>
+				<permission id="2" name="Yeni Kayıt"/>
+				<permission id="3" name="Güncelleme"/>
+				<permission id="4" name="Silme"/>
+			</form>	
+			</module>
+</moduleList>
